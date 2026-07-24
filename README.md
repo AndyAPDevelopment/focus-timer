@@ -88,6 +88,10 @@ focus-timer/
 - Export sessions to CSV
 - Package as a standalone macOS `.app`
 
+## Credits
+
+This project was built with assistance from [Grok].
+
 ## License
 
 MIT
