@@ -1,15 +1,28 @@
-cat > .gitignore << 'EOF'
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
 venv/
 .env
+*.egg-info/
+dist/
+build/
 
 # macOS
 .DS_Store
+.AppleDouble
+.LSOverride
+._*
 
-# Project
+# Project specific
 data/
+sessions.json
 *.json
-EOF
+
+# VS Code / editors
+.vscode/
+.idea/
+*.swp
+*~
