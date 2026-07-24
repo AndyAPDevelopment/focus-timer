@@ -17,7 +17,7 @@ A simple and clean Pomodoro-style focus timer with session logging, built with P
 
 ## Screenshots
 
-*(Add screenshots here later)*
+![Focus Timer](screenshots/app.png)
 
 ## Requirements
 
